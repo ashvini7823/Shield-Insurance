@@ -107,12 +107,12 @@ A star schema was used with fact tables (`fact_premiums`, `fact_settlements`) co
 
 ## 🔗 Important Links
 
-- 🔗 [Live Dahboard](https://github.com/ashvini7823)  
-- 🔗 [Shield Insurance Dashboard](https://www.linkedin.com/in/ashvini-patil-47103a238/)  
-- 🔗 [Shield Insurance Presentation](https://codebasics.io/portfolio/Ashvini-Patil)
-- 🔗 [Shield Insurance Documentation]
-- 🔗 [Credits]
-- 🔗 [Video Presenation]
+- 🔗 [Live Dahboard](https://app.powerbi.com/view?r=eyJrIjoiYzVlNTQ4YTUtOWY1Yy00Y2FkLWIzM2ItY2YwY2M0MGQzYTM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=4b16207fa71d7bf9a39f)  
+- 🔗 [Shield Insurance Dashboard](https://github.com/ashvini7823/Shield-Insurance/blob/d5170e26d02820cbc36cae5422ac165ddc3620e6/shield%20insuarnce%20Dashboard.pdf)
+- 🔗 [Shield Insurance Presentation](https://github.com/ashvini7823/Shield-Insurance/blob/d5170e26d02820cbc36cae5422ac165ddc3620e6/Shield%20Insurance%20Presentation.pdf)
+- 🔗 [Shield Insurance Documentation](https://github.com/ashvini7823/Shield-Insurance/blob/d5170e26d02820cbc36cae5422ac165ddc3620e6/Shield%20Insurance%20Documentation.pptx)
+- 🔗 [Credits](https://github.com/ashvini7823/Shield-Insurance/blob/d5170e26d02820cbc36cae5422ac165ddc3620e6/CREDITS.md)
+- 🔗 [Video Presenation](https://youtu.be/xYMLDGOVAss)
 
 ---
 
