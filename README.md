@@ -41,9 +41,9 @@ insurance provider operating across major Indian cities. It offers a wide range 
 
 ## 🔗 Data Model Diagram
 
-![Shield Insurance Data Model](https://github.com/user-attachments/assets/9df5c614-0a3b-4223-8620-36401cfad5ba)
-
 A star schema was used with fact tables (`fact_premiums`, `fact_settlements`) connected to dimension tables (`dim_customer`, `dim_date`, `dim_policies`).
+
+![Shield Insurance Data Model](https://github.com/user-attachments/assets/9df5c614-0a3b-4223-8620-36401cfad5ba)
 
 ---
 
